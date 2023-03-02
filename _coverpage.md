@@ -1,12 +1,12 @@
 <!-- _coverpage.md -->
 
-# Docsify使用指南 
+# 天问51 API文档 
 
-> 💪Docsify使用指南，使用Typora+Docsify打造最强、最轻量级的个人&团队文档。
+> STC系列、沁恒系列、天问系列、ASRPRO语音系列API文档
 
- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 图形块功能说明及使用讲解
+- 具体案例项目讲解
 
 
+<!-- [开始使用 Let Go](function/func01.md#STC8编程手册) -->
 [开始使用 Let Go](/README.md)

@@ -1,7 +1,5 @@
 <!-- _sidebar.md -->
 
-* Typora+Docsify使用指南
-  * [Docsify使用指南](function/func01.md) <!--注意这里是相对路径-->
-  * [Typora+Docsify快速入门](/ProjectDocs/Typora+Docsify快速入门.md)
-* Docsify部署
-  * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
+* [STC8编程手册](function/func01.md#STC8编程手册)
+  * [程序模块](function/func01.md#程序模块) <!--注意这里是相对路径-->
+  * [显示模块](function/func02.md#显示模块) <!--注意这里是相对路径-->
